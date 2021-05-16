@@ -1,0 +1,23 @@
+@import './libs/bootstrap.min';
+@import './libs/fonts';
+
+$main-color: #0F2F60;
+$accent-color: #00B49D;
+$button-color: white;
+
+* {
+    font-family: 'Gilroy', serif;
+    font-size: 20px;
+    color: $main-color;
+}
+
+.main {
+    background: url('../img/bg.png') center (center/cover) no-repeat;
+    height: 100vh;
+}
+
+
+
+@import './blocks/modal';
+@import './blocks/button';
+@import './media';
