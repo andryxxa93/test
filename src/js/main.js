@@ -1,4 +1,4 @@
-// without JQEURY
+// without JQuery
 // window.addEventListener('DOMContentLoaded', () => {
 //     'use sctrict'
 
